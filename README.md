@@ -3,7 +3,8 @@
 #-Ip Lookup
 #-SMTP TEST
 #-PORT Scan
-#We try to biuld fantastic Tool for linux freedom Software is free for all and shoud be.
+#We try to biuld fantastic Tool for linux freedom. 
+#Software is free for all and shoud be.
 #Black swan Team.
                                                                                                     
                                                                                                     
